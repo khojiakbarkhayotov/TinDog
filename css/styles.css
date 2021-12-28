@@ -170,7 +170,7 @@ p{
     }
     
     .feature-heading{
-        font-size: 3.5rem;
+        font-size: 3rem;
     }
     
     #features p{
@@ -178,7 +178,8 @@ p{
     }
     
     .big_heading{
-        font-size: 6rem;
+        font-size: 4rem;
+        font-weight: bold;
     }
 
     .title_image{
@@ -193,7 +194,19 @@ p{
     }
 
     .testimonial-text{
-        font-size: 5rem;
+        font-size: 2.5rem;
+    }
+    
+    #testimonials em{
+        font-size: 2rem;   
+    }
+    
+    .icon{
+        width: 50%;
+    }
+    
+    #footer p{
+        font-size: 2rem;   
     }
 }
 
