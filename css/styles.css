@@ -168,6 +168,10 @@ p{
     #title{
         text-align: center;
     }
+    
+    .big_heading{
+        font-size: 6rem;
+    }
 
     .title_image{
         transform: rotate(0);
