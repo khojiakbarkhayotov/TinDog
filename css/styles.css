@@ -169,6 +169,14 @@ p{
         text-align: center;
     }
     
+    .feature-heading{
+        font-size: 3.5rem;
+    }
+    
+    #feature p{
+        font-size: 2rem;
+    }
+    
     .big_heading{
         font-size: 6rem;
     }
